@@ -4,6 +4,8 @@ Curated AI-image evaluation datasets for detection, forensics, and robustness te
 
 These datasets are designed around a real-world problem: images rarely stay pristine. In practice, images are often recompressed, screenshotted, re-saved, or passed through messaging and device workflows before they are ever analyzed.
 
+https://safemedia.tech
+
 ## What the datasets include
 
 The dataset catalog focuses on structured packs built around generators and transforms.
